@@ -12,7 +12,7 @@ Robot simulations were conducted using the [Gazebo](https://gazebosim.org/home) 
 
 ## Dataset
 
-The dataset is designed for the task of multi-robot indoor source searching. It builds upon our [previous research](https://github.com/mwanggh/An-Exploration-Enhanced-Search-Algorithm-for-Robot-Indoor-Source-Searching). Several new scenarios have been created and simulated. 
+The dataset is designed for the task of multi-robot indoor source searching. It builds upon our previous research[GitHub](https://github.com/mwanggh/An-Exploration-Enhanced-Search-Algorithm-for-Robot-Indoor-Source-Searching). Several new scenarios have been created and simulated. 
 
 The case names are formatted as House$X_1$-$X_2$-$X_3$-$X_4$-$X_5 X_6$, where $ X_1 $ represents the house number, $ X_2 $ represents the airflow inlets, $ X_3 $ represents the airflow outlets, $ X_4 $ represents the airflow speed, $ X_5 $ represents the space where the source is located (B for Bathroom or K for Kitchen), and $ X_6 $ indicates whether the source is in the airflow (I for In or O for Out). For example, House07-1-3-04-KI signifies the scenario in House07 with airflow inlet 1, airflow outlet 3, airflow speed of 0.4 m/s, and a source located in the kitchen within the airflow. If $ X_4 $ is omitted, it implies the four cases for all airflow speeds.
 
