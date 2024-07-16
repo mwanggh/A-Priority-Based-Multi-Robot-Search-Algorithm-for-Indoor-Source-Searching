@@ -22,6 +22,12 @@ The case names are formatted as House$X_1$-$X_2$-$X_3$-$X_4$-$X_5 X_6$, where $ 
 
 ## Videos
 
+Here are two challenging scenarios.
+
+In House06_1_1_08_BO, the source is not in the airflow, only a small amount of the released substance enters the airflow, and a large area of the space has no airflow or concentration clues (including the robot's initial position). After measuring the concentration clues, the robot may be misled to move upstream in the airflow, thus entering a corridor where the source is not present. As can be seen from the video, the global best guidance plays an important role in the search for the source.
+
+In House15_1_12_08_KI, the robots face similar difficulties. Robots must turn into the room where the source is located. Moreover, since the room is large, using multiple robots can reduce the search time.
+
 - [House06_1_1_08_BO](https://youtu.be/7NADVH4X-HM)
 - [House15_1_12_08_KI](https://youtu.be/Cp7u-X54fSM)
 
