@@ -28,7 +28,7 @@ In House06_1_1_08_BO, the source is not in the airflow, only a small amount of t
 
 In House15_1_12_08_KI, the robots face similar difficulties. Robots must turn into the room where the source is located. Moreover, since the room is large, using multiple robots can reduce the search time.
 
-**The new video is temporarily offline due to a small problem and will be uploaded within two days!**
+**The new videos are temporarily offline due to a small problem and will be uploaded within two days!**
 
 - [House06_1_1_08_BO](https://youtu.be/7NADVH4X-HM)
 - [House15_1_12_08_KI](https://youtu.be/Cp7u-X54fSM)
