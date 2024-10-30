@@ -30,6 +30,7 @@ In House15_1_12_08_KI, the robots face similar difficulties. Robots must turn in
 
 - [House06_1_1_08_BO](https://youtu.be/QeNwpsJOJ0o)
 - [House15_1_12_08_KI](https://youtu.be/z78INMsPicE)
+- [Real Robot Experiment](https://youtu.be/qoym6aexY0U)
 
 ## Cite this paper
 
