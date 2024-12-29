@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The dataset is designed for the task of multi-robot indoor source searching. It builds upon our previous research\[[GitHub](https://github.com/mwanggh/An-Exploration-Enhanced-Search-Algorithm-for-Robot-Indoor-Source-Searching)\]. Several new scenarios have been created and simulated. 
+The dataset is designed for the task of multi-robot indoor source searching. It builds upon our [previous research](https://github.com/mwanggh/An-Exploration-Enhanced-Search-Algorithm-for-Robot-Indoor-Source-Searching). Several new scenarios have been created and simulated. 
 
 - [CAD files.](https://huggingface.co/datasets/WangHaaa/SourceSearchingDatasetCAD) The 3D models were created by the [RobotAtVirtualHome](https://github.com/DavidFernandezChaves/RobotAtVirtualHome) project and converted into CAD models.
 - [CFD data.](https://huggingface.co/datasets/WangHaaa/SourceSearchingDatasetCFD) CFD simulations were conducted using the [OpenFOAM](https://openfoam.org/) 11 software.
