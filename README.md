@@ -1,5 +1,7 @@
 # A Priority-Based Multi-Robot Search Algorithm for Indoor Source Searching
 
+[View Paper](https://ieeexplore.ieee.org/document/10832132)
+
 ## Dataset
 
 The dataset is designed for the task of multi-robot indoor source searching. It builds upon our [previous research](https://github.com/mwanggh/An-Exploration-Enhanced-Search-Algorithm-for-Robot-Indoor-Source-Searching). Several new scenarios have been created and simulated. 
