@@ -26,5 +26,6 @@ The dataset is designed for the task of multi-robot indoor source searching. It 
   year={2025},
   volume={22},
   pages={10457-10469},
-  doi={10.1109/TASE.2024.3524237}}
+  doi={10.1109/TASE.2024.3524237}
+}
 ```
