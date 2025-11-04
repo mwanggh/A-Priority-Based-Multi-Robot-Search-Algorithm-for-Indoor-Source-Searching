@@ -18,4 +18,13 @@ The dataset is designed for the task of multi-robot indoor source searching. It 
 
 ## Cite this paper
 
-*Paper information will be updated after the paper is accepted.*
+```
+@ARTICLE{10832132,
+  author={Wang, Miao and Xin, Bin and Jing, Mengjie and Qu, Yun},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={A Priority-Based Multi-Robot Search Algorithm for Indoor Source Searching}, 
+  year={2025},
+  volume={22},
+  pages={10457-10469},
+  doi={10.1109/TASE.2024.3524237}}
+```
